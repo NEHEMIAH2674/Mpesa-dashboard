@@ -1,2 +1,9 @@
-# Mpesa-dashboard
-This is a tracker developed to track how how i utilised my mpesa between  April 2023-April 2025 
+# 📊 Personal Finance Dashboard: MPESA  Tracker
+
+This project extracts, transforms, and visualizes MPESA airtime transactions between **April 2023 – April 2025** using **Looker Studio**.
+
+--
+
+## 📁 Project Structure
+
+
