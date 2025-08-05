@@ -141,13 +141,11 @@ Transaction Type
 
 📦 requirements.txt
 nginx
-Copy
-Edit
 PyPDF2
 pdfplumber
 pandas
 openpyxl
-📸 Optional: Dashboard Preview
+
 
 
 📎 License
